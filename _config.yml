@@ -1,5 +1,2 @@
 theme: jekyll-theme-cayman
-webrick:
-  headers:
-    My-Header: About Markdown
-    My-Other-Header: how to use Markdown
+page.title: ABout Markdown

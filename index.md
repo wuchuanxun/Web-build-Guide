@@ -89,5 +89,5 @@ Here is the overview:</br>
 
 links to learn Markdown:</br>
 [Wikipedia](http://zh.wikipedia.com/wiki/Markdown)</br>
-[Wow!Ubuntu](http://wowubuntu.com/markdown/#autoescape)</br>
+[Wow Ubuntu](http://wowubuntu.com/markdown/#autoescape)</br>
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)</br>
