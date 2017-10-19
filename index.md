@@ -1,37 +1,93 @@
-## Welcome to GitHub Pages
+# What is Markdown?
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding         images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few       non-    alphabetic characters thrown in, like `#` or `*`.
 
-You can use the [editor on GitHub](https://github.com/wuchuanxun/Web-build-Guide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> You can use Markdown most places around GitHub:
+> - [Gists](https://gist.github.com/)
+> - Comments in Issues and Pull Requests
+> - Files with the .md or .markdown extension
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Syntax guide
+Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
-### Markdown
+## Headers
+Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+You can use one `#` all the way up to `######` six for different heading sizes.
+If you'd like to quote someone, use the  `>` character before the line:</br>
+`>` Coffee. The finest organic suspension ever devised... I beat the Borg with it.</br>
+`>` -Captain Janeway
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is the overview of quote：
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> -Captain Janeway
 
-```markdown
-Syntax highlighted code block
+## Emphasis
+```
+`*`This text will be italic`*`
+`_`This will also be italic`_`
 
-# Header 1
-## Header 2
-### Header 3
+`**`This text will be bold`**`
+`__`This will also be bold`__`
 
-- Bulleted
-- List
+`_`You `**`can`**` combine them`_`
+ ```
+Here is the overview:</br>
+> *This text will be italic*</br>
+> _This will also be italic_
 
-1. Numbered
-2. List
+> **This text will be bold**</br>
+> __This will also be bold__
 
-**Bold** and _Italic_ and `Code` text
+> _You **can** combine them_
 
-[Link](url) and ![Image](src)
+## Lists
+### Unordered
+```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
+Here is the overview:</br>
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+### Ordered
+```
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
+```
+Here is the overview:</br>
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
+
+## Word Block
+Use Tab before each line</br>
+```
+[tab]The first line
+[four space]The Second line
+```
+you can also use three ···(In english) before and after block
+
+Here is the overview:</br>
+
+    The first line</br>
+    The Second line
+
+## Links
+```
+[链接文字](链接地址)
+例子： [Markdown](http://zh.wikipedia.com/wiki/Markdown)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuchuanxun/Web-build-Guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+links to learn Markdown:</br>
+[Wikipedia](http://zh.wikipedia.com/wiki/Markdown)</br>
+[Wow!Ubuntu](http://wowubuntu.com/markdown/#autoescape)</br>
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)</br>
