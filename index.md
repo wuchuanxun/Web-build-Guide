@@ -12,8 +12,8 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 ## Headers
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 You can use one `#` all the way up to `######` six for different heading sizes.
-If you'd like to quote someone, use the  `>` character before the line:</br>
-`>` Coffee. The finest organic suspension ever devised... I beat the Borg with it.</br>
+If you'd like to quote someone, use the  `>` character before the line:  
+`>` Coffee. The finest organic suspension ever devised... I beat the Borg with it.  
 `>` -Captain Janeway
 
 Here is the overview of quote：
@@ -31,10 +31,10 @@ Here is the overview of quote：
 `_`You `**`can`**` combine them`_`
  ```
 Here is the overview:</br>
-> *This text will be italic*</br>
+> *This text will be italic*  
 > _This will also be italic_
 
-> **This text will be bold**</br>
+> **This text will be bold**  
 > __This will also be bold__
 
 > _You **can** combine them_
@@ -47,7 +47,7 @@ Here is the overview:</br>
   * Item 2a
   * Item 2b
 ```
-Here is the overview:</br>
+Here is the overview:  
 * Item 1
 * Item 2
   * Item 2a
@@ -61,7 +61,7 @@ Here is the overview:</br>
    1. Item 3a
    2. Item 3b
 ```
-Here is the overview:</br>
+Here is the overview:  
 1. Item 1
 2. Item 2
 3. Item 3
@@ -69,16 +69,16 @@ Here is the overview:</br>
    2. Item 3b
 
 ## Word Block
-Use Tab before each line</br>
+Use Tab before each line  
 ```
 [tab]The first line
 [four space]The Second line
 ```
 you can also use three ···(In english) before and after block
 
-Here is the overview:</br>
+Here is the overview:  
 
-    The first line</br>
+    The first line  
     The Second line
 
 ## Links
@@ -87,7 +87,7 @@ Here is the overview:</br>
 例子： [Markdown](http://zh.wikipedia.com/wiki/Markdown)
 ```
 
-links to learn Markdown:</br>
-[Wikipedia](http://zh.wikipedia.com/wiki/Markdown)</br>
-[Wow Ubuntu](http://wowubuntu.com/markdown/#autoescape)</br>
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)</br>
+links to learn Markdown:  
+[Wikipedia](http://zh.wikipedia.com/wiki/Markdown)  
+[Wow Ubuntu](http://wowubuntu.com/markdown/#autoescape)  
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
