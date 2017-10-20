@@ -6,7 +6,7 @@ Markdown is a way to style text on the web. You control the display of the docum
 > - Comments in Issues and Pull Requests
 > - Files with the .md or .markdown extension
 
-[Try Link](Details/try.md)
+[Try Link](Details/Try.md) 	
 # Syntax guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
