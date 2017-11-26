@@ -1,5 +1,10 @@
+```
+latex is used in here $\pi$ 
+```
+latex is used outside $\pi$ 
+
 # What is Markdown?
-Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding         images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few       non-    alphabetic characters thrown in, like `#` or `*`.
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding  images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few  non-alphabetic characters thrown in, like `#` or `*`.
 
 > You can use Markdown most places around GitHub:
 > - [Gists](https://gist.github.com/)
@@ -30,7 +35,7 @@ Here is the overview of quote：
 `__`This will also be bold`__`
 
 `_`You `**`can`**` combine them`_`
- ```
+```
 Here is the overview:</br>
 > *This text will be italic*  
 > _This will also be italic_
